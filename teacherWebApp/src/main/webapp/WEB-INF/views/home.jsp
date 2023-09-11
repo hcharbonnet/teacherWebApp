@@ -8,7 +8,14 @@
         <title>Home</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-        <p>This is the homepage!</p>
+        <h1>Student Web App</h1>
+        <p>Welcome to the Teacher Homepage!</p>
+       	
+       	<ul><!-- nav bar -->
+	       	<li><a href="">Home</a></li>
+	       	<li><a href="teacherPage.jsp">View Your Class Page</a></li>
+	       	<li><a href="form.jsp">Register your students</a></li>
+       	</ul>
+       	
     </body>
 </html>
