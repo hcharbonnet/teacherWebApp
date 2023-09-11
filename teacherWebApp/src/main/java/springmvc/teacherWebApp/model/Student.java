@@ -6,6 +6,9 @@ public class Student {
 	private String email;
 	private Long gpa;
 	
+	public Student() {
+		//default constructor
+	}
 	public Student(String firstName, String lastName, int id) {
 		this.firstName = firstName;
 		this.lastName = lastName;
