@@ -14,7 +14,11 @@
 	</listener>
 
 	<servlet>
+<<<<<<< HEAD
 		<servlet-name>rest</servlet-name>
+=======
+		<servlet-name>SpringDispatcher</servlet-name>
+>>>>>>> 02d9f7b5823d0e31a3605d11b7ece1e21637647b
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
 		<init-param>
 			<param-name>contextClass</param-name>
@@ -29,7 +33,11 @@
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 	<servlet-mapping>
+<<<<<<< HEAD
 		<servlet-name>rest</servlet-name>
+=======
+		<servlet-name>SpringDispatcher</servlet-name>
+>>>>>>> 02d9f7b5823d0e31a3605d11b7ece1e21637647b
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 

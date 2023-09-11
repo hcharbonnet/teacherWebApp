@@ -23,11 +23,15 @@
 			<artifactId>spring-context</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
+<<<<<<< HEAD
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
 			<version>4.3.8.RELEASE</version>
 		</dependency>
+=======
+
+>>>>>>> 02d9f7b5823d0e31a3605d11b7ece1e21637647b
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
@@ -36,7 +40,11 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-web</artifactId>
+<<<<<<< HEAD
 			<version>4.1.6.RELEASE</version>
+=======
+			<version>${spring.version}</version>
+>>>>>>> 02d9f7b5823d0e31a3605d11b7ece1e21637647b
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -45,6 +53,10 @@
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 02d9f7b5823d0e31a3605d11b7ece1e21637647b
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
