@@ -11,7 +11,7 @@
 	       	<li><a href="/../teacherWebApp/">Home</a></li>
     </ul>
     <h2>Please enter student's information below.</h2>
-	<form action="/teacherWebApp/registration" method="post">
+	<form action="./registration" method="post">
 		Student's First Name: <input type="text" name="firstName" required /><br>
 		Student's Last Name: <input type="text" name="lastName" required /><br>
 		Student ID: <input type="text" name="id" required /><br>
